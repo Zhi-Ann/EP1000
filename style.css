@@ -20,6 +20,10 @@ body {background-color: darkseagreen;
 }
 #nav{width:180px;
     float: left;
+    background-color: darksalmon;
+    margin-right:10px;
+    height:500px; 
+    margin-bottom:15px;
 }
 #main{width:600px;
     float: right;
@@ -35,6 +39,17 @@ a{text-decoration: none;
 #nav ul{padding:none;
     
 }
+
+h1,h2,h3{margin:10px; }
+
+#footer{
+    clear:both;
+    padding: 10px;
+    background-color:darkturquoise;
+    text-align: right;
+    color: darkred;    
+}
+
 
 h1,h2,h3{margin:10px; }
 
