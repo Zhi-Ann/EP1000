@@ -19,14 +19,14 @@ body {background-color: darkseagreen;
     padding:15px;
     
 }
-#nav{width:180px;
+#nav{width:265px;
     float: left;
     background-color: darksalmon;
     margin-right:10px;
     height:500px; 
     margin-bottom:15px;
 }
-#main{width:870px;
+#main{width:785px;
     float: right;
     align-content: center;
 }
