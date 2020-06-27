@@ -1,16 +1,16 @@
-body {background-color: darkseagreen;
+body {background-image: url(images/background7.jpg);
     font-family:cursive,monospace;
 }
 
 #container{
-    background-color: floralwhite;
+    background-color: seashell;
     width:1100px;
     margin-left: auto;
     margin-right:auto;   
 }
 
-#header{background:PaleGoldenRod;
-    color: deeppink;
+#header{background-color:indianred;
+    color: gold;
     text-align: center;
     padding: 2px;
 }
@@ -21,9 +21,11 @@ body {background-color: darkseagreen;
 }
 #nav{width:265px;
     float: left;
-    background-color: darksalmon;
+    background-image: url(images/background22.png);
+    background-size:cover;
+    background-position: 588px 1100px;
     margin-right:10px;
-    height:500px; 
+    height:550px; 
     margin-bottom:15px;
 }
 #main{width:785px;
@@ -52,7 +54,8 @@ h1,h2,h3{margin:10px; }
 #footer{
     clear:both;
     padding: 10px;
-    background-color:darkturquoise;
+    background-color:lightgreen;
     text-align: right;
-    color: darkred;    
+    color: brown;
+    
 }
